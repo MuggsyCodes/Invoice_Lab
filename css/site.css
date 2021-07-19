@@ -1,0 +1,14 @@
+.be_bold {
+        font-weight: bold;
+}
+
+body >.container {
+    border:1px solid #cecece;
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
+}
+
+.remove_stripe {
+    background-color: white;
+}
